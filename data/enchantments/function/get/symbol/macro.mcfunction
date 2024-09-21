@@ -1,0 +1,1 @@
+$data modify storage enchantments temp set string storage enchantments str_data $(min) $(max)

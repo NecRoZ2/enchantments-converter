@@ -1,0 +1,9 @@
+{
+  "values": [
+    "minecraft:looting",
+    "minecraft:fortune",
+    "minecraft:mending",
+    "minecraft:riptide",
+    "minecraft:density"
+  ]
+}

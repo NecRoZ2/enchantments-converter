@@ -1,0 +1,1 @@
+$data modify storage enchantments list[-1].lvl set from storage enchantments raw_data.$(temp)
